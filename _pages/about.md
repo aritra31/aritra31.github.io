@@ -49,7 +49,7 @@ I have worked across domains that look very different on the surface:
 clinical research, financial services, higher education, and technology. What 
 stays consistent is the approach, that is to understand what is actually being asked, 
 find the pattern, and make it useful but measuring it right. 
-Take a look at my[**portfolio**](/projects/) to see my projects and work.
+Take a look at my [**portfolio**](/projects/) to see my projects and work.
 
 I recently completed my graduate studies and am excited to bring everything 
 I have built into a team environment where the problems are real and the 
