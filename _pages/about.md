@@ -16,7 +16,7 @@ social: true
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
 
-<p style="font-weight: 600; font-size: 1.1rem;">
+<p style="font-weight: 600; font-size: 0.9rem;">
   <span id="typed-title"></span>
 </p>
 
@@ -57,10 +57,12 @@ work matters. If you would like to connect or just chat about data,
 technology, or anything in between, feel free to reach out. 
 Thank you for visiting!
 
+
 #### Current Interests
 - Exploring retrieval-augmented generation and LLM evaluation methods
 - Deepening my knowledge in causal inference and econometric analysis
 - Finding better ways to communicate analytical findings as a story
+
 
 #### Tech Stack
 - **Languages:** Python, R, SQL
@@ -68,7 +70,7 @@ Thank you for visiting!
 - **Analytics & BI:** pandas, NumPy, Tableau, Power BI, A/B Testing
 - **Infrastructure:** ETL/ELT pipelines, GitHub, AWS S3/EC2
 
----
+
 #### Career Timeline
 
 | | |
