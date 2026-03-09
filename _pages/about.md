@@ -73,12 +73,12 @@ Thank you for visiting!
 
 | | |
 |---|---|
-| Aug 2023 – Dec 2025 | \Fiscal Analyst, Boston College |
-
+| Aug 2023 – Dec 2025 | Fiscal Analyst, Boston College |
+| | |
 | Jun 2023 – Aug 2023 | Business Analyst, Ernst & Young GDS |
-
-| Feb 2024 – Apr 2024 | LLM Engineer Intern, Finurja |
-
-| Aug 2023 – Dec 2025 | Dual Master's in Applied Analytics & Economics, Boston College |
-
-| Aug 2019 – May 2023 | Bachelor's in Computer Science, IEM Kolkata |
+| | |
+| Feb 2023 – Apr 2024 | LLM Engineer, Finurja |
+| | |
+| Aug 2023 – Dec 2025 | Dual MS in Applied Analytics & Economics, Boston College |
+| | |
+| Aug 2019 – May 2023 | B.Tech in Computer Science, IEM Kolkata |
