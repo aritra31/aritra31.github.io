@@ -35,52 +35,50 @@ social: true
   });
 </script>
 
-I am a data and ML analyst with a computer science foundation and graduate 
-training in applied analytics and economics from Boston College.
+Hello! Welcome to my corner of the internet.
 
-My path has been built on deliberate transitions — from the Middle East to 
-India to the United States, each move planned and funded independently. That 
-experience of navigating new environments and adapting quickly is something 
-that carries directly into how I approach problems: read the context, find 
-the structure, and build something that holds.
+My name is Aritra, and I am passionate about finding structure in complex, 
+ambiguous problems and turning it into something people can actually use. 
+My background is in computer science, with graduate training in applied 
+analytics and economics at Boston College. Although my journey has been 
+largely self-directed - from the Middle East to India to the United States - 
+it has been driven by a genuine curiosity about how data can inform better 
+decisions.
 
-What I've come to understand about my own work is that the core skill 
-transfers across domains. At Boston College, I surfaced an enrollment pattern 
-from two years of student data — response times to international applicants 
-and geo-targeted outreach were quietly driving yield — before anyone had 
-thought to look there. During the pandemic, I built a system to detect 
-emotional distress from clinical speech and text, published in Springer, 
-because mental health access had collapsed and the problem was solvable. 
-At EY, I automated audit infrastructure that cut manual effort by 75%. At a 
-fintech startup, I built LLM classification pipelines that outperformed 
-rule-based systems by 30 percentage points.
+I have worked across domains that look very different on the surface: 
+clinical research, financial services, higher education, and technology. What 
+stays consistent is the approach, that is to understand what is actually being asked, 
+find the pattern, and make it useful but measuring it right. 
+Take a look at my[**portfolio**](/projects/) to see my projects and work.
 
-Audit data, clinical speech, property markets, bank transactions, search 
-logs — the domain changes, the discipline doesn't. I find the pattern, 
-make it legible, and connect it to something actionable.
+I recently completed my graduate studies and am excited to bring everything 
+I have built into a team environment where the problems are real and the 
+work matters. If you would like to connect or just chat about data, 
+technology, or anything in between, feel free to reach out. 
+Thank you for visiting!
 
-Take a look at my [**portfolio**](/projects/) to see the work.
-Currently open to data analyst and ML engineer roles at tech companies.
-The best way to reach me is through email.
-
-#### What I Work On
-- Retrieval systems, LLM pipelines, and evaluation frameworks
-- Causal inference and statistical analysis for business problems
-- End-to-end ML — from messy raw data to validated, working output
+#### Current Interests
+- Exploring retrieval-augmented generation and LLM evaluation methods
+- Deepening my knowledge in causal inference and econometric analysis
+- Finding better ways to communicate analytical findings as a story
 
 #### Tech Stack
-- **Languages:** Python · R · SQL
-- **ML & NLP:** scikit-learn · sentence-transformers · GPT-4/Gemini · LSTM · XGBoost · RAG
-- **Analytics & BI:** pandas · NumPy · Tableau · Power BI · Streamlit · A/B Testing
-- **Infrastructure:** AWS S3/EC2 · ETL/ELT pipelines · GitHub · model versioning
+- **Languages:** Python, R, SQL
+- **ML & NLP:** scikit-learn, sentence-transformers, GPT-4/Gemini, LSTM, XGBoost, RAG
+- **Analytics & BI:** pandas, NumPy, Tableau, Power BI, A/B Testing
+- **Infrastructure:** AWS S3/EC2 · ETL/ELT pipelines · GitHub 
 
 ---
 #### Career Timeline
 
 | | |
 |---|---|
-| Aug 2023 – Dec 2025 | Graduate Assistant – Fiscal Analyst, Boston College |
+| Aug 2023 – Dec 2025 | \Fiscal Analyst, Boston College |
+
 | Jun 2023 – Aug 2023 | Business Analyst, Ernst & Young GDS |
-| Feb 2023 – Apr 2024 | LLM Engineer Intern, Finurja |
-| Dec 2025 | Dual MS — Applied Analytics & Economics, Boston College |
-| May 2023 | B.Tech — Computer Science, IEM Kolkata |
+
+| Feb 2024 – Apr 2024 | LLM Engineer Intern, Finurja |
+
+| Aug 2023 – Dec 2025 | Dual Master's in Applied Analytics & Economics, Boston College |
+
+| Aug 2019 – May 2023 | Bachelor's in Computer Science, IEM Kolkata |
