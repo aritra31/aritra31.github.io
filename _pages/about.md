@@ -2,148 +2,85 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data & ML Analyst · Boston, MA
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
 
 news: false
 selected_papers: false
 social: true
 ---
 
-Fair. Here's the only section that changes — just the bio paragraphs, everything else stays:
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
 
-Hello! Welcome to my corner of the internet.
+<p style="font-weight: 600; font-size: 1.1rem;">
+  <span id="typed-title"></span>
+</p>
 
-My name is Aritra, and I'm genuinely obsessed with the moment a messy dataset 
-starts to make sense. I came into data through computer science, picked up 
-economics and statistics along the way, and somewhere in between I realized 
-that the most interesting problems live at the boundary — where the math gets 
-hard and the answer actually has to work.
+<script>
+  new Typed('#typed-title', {
+    strings: [
+      'Data Analyst',
+      'ML Engineer',
+      'Analytics Engineer',
+      'Applied ML Researcher',
+    ],
+    typeSpeed: 55,
+    backSpeed: 35,
+    backDelay: 1800,
+    loop: true
+  });
+</script>
 
-I'm based in Boston, where I recently finished a dual Master's at Boston College 
-in Applied Analytics and Applied Economics. Outside of work, I play the 
-synthesizer, sketch when I get the chance, and firmly believe that the best 
-solutions come from people just lazy enough to find a smarter way.
+I am a data and ML analyst with a computer science foundation and graduate 
+training in applied analytics and economics from Boston College.
 
-My research on emotion detection from clinical speech is published in Springer — 
-which is a fancy way of saying I once built a system that listens to people and 
-tries to understand how they feel. Take a look at my 
-[**portfolio**](/projects/) to see what I've been working on.
+My path has been built on deliberate transitions — from the Middle East to 
+India to the United States, each move planned and funded independently. That 
+experience of navigating new environments and adapting quickly is something 
+that carries directly into how I approach problems: read the context, find 
+the structure, and build something that holds.
 
-Currently open to data analyst and ML engineer roles at tech companies. 
-Best way to reach me is through email.
+What I've come to understand about my own work is that the core skill 
+transfers across domains. At Boston College, I surfaced an enrollment pattern 
+from two years of student data — response times to international applicants 
+and geo-targeted outreach were quietly driving yield — before anyone had 
+thought to look there. During the pandemic, I built a system to detect 
+emotional distress from clinical speech and text, published in Springer, 
+because mental health access had collapsed and the problem was solvable. 
+At EY, I automated audit infrastructure that cut manual effort by 75%. At a 
+fintech startup, I built LLM classification pipelines that outperformed 
+rule-based systems by 30 percentage points.
 
-#### Current Interests
-- Retrieval-augmented generation and LLM evaluation
-- Causal inference for business and product questions
-- Building ML pipelines that hold up beyond the notebook
+Audit data, clinical speech, property markets, bank transactions, search 
+logs — the domain changes, the discipline doesn't. I find the pattern, 
+make it legible, and connect it to something actionable.
+
+Take a look at my [**portfolio**](/projects/) to see the work.
+Currently open to data analyst and ML engineer roles at tech companies.
+The best way to reach me is through email.
+
+#### What I Work On
+- Retrieval systems, LLM pipelines, and evaluation frameworks
+- Causal inference and statistical analysis for business problems
+- End-to-end ML — from messy raw data to validated, working output
 
 #### Tech Stack
-- **Languages & Querying:** Python · R · SQL
-- **ML & NLP:** scikit-learn · sentence-transformers · LSTM · XGBoost · GPT-4/Gemini API · RAG
+- **Languages:** Python · R · SQL
+- **ML & NLP:** scikit-learn · sentence-transformers · GPT-4/Gemini · LSTM · XGBoost · RAG
 - **Analytics & BI:** pandas · NumPy · Tableau · Power BI · Streamlit · A/B Testing
-- **Infrastructure:** AWS S3/EC2 · ETL/ELT · GitHub · model versioning
+- **Infrastructure:** AWS S3/EC2 · ETL/ELT pipelines · GitHub · model versioning
 
 ---
-
-<style>
-.timeline {
-  position: relative;
-  padding: 0;
-  margin: 2rem 0;
-}
-.timeline::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 6px;
-  bottom: 6px;
-  width: 2px;
-  background: linear-gradient(to bottom, #aaa 0%, #ddd 100%);
-}
-.timeline-section-label {
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #888;
-  margin: 2rem 0 0.75rem 1.5rem;
-}
-.timeline-item {
-  position: relative;
-  padding: 0 0 1.25rem 1.5rem;
-}
-.timeline-item::before {
-  content: '';
-  position: absolute;
-  left: -4px;
-  top: 6px;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background: #555;
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 2px #aaa;
-}
-.timeline-date {
-  font-size: 0.75rem;
-  color: #888;
-  margin-bottom: 0.15rem;
-  font-weight: 500;
-}
-.timeline-title {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: #222;
-  margin: 0;
-}
-.timeline-sub {
-  font-size: 0.85rem;
-  color: #555;
-  margin: 0;
-}
-</style>
-
 #### Career Timeline
 
-<div class="timeline">
-
-  <div class="timeline-section-label">Experience</div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Aug 2023 – Dec 2025</div>
-    <div class="timeline-title">Graduate Assistant – Fiscal Analyst</div>
-    <div class="timeline-sub">Boston College, Woods College of Advancing Studies</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Jun 2023 – Aug 2023</div>
-    <div class="timeline-title">Business Analyst</div>
-    <div class="timeline-sub">Ernst & Young Global Delivery Services</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2023 – 2024</div>
-    <div class="timeline-title">LLM Integration Project – Fintech</div>
-    <div class="timeline-sub">Finurja · Applied AI / Independent</div>
-  </div>
-
-  <div class="timeline-section-label">Education</div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Dec 2025</div>
-    <div class="timeline-title">Dual MS — Applied Analytics & Applied Economics</div>
-    <div class="timeline-sub">Boston College · GPA 3.80 / 4.00</div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">May 2023</div>
-    <div class="timeline-title">B.Tech — Computer Science Engineering</div>
-    <div class="timeline-sub">Institute of Engineering & Management, Kolkata · GPA 3.93 / 4.00</div>
-  </div>
-
-</div>
+| | |
+|---|---|
+| Aug 2023 – Dec 2025 | Graduate Assistant – Fiscal Analyst, Boston College |
+| Jun 2023 – Aug 2023 | Business Analyst, Ernst & Young GDS |
+| Feb 2023 – Apr 2024 | LLM Engineer Intern, Finurja |
+| Dec 2025 | Dual MS — Applied Analytics & Economics, Boston College |
+| May 2023 | B.Tech — Computer Science, IEM Kolkata |
