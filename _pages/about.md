@@ -24,9 +24,9 @@ social: true
   new Typed('#typed-title', {
     strings: [
       'Data Analyst',
-      'ML Engineer',
-      'Analytics Engineer',
-      'Applied ML Researcher',
+      'Machine Learning Engineer',
+      'Curious learner',
+      'Lifelong explorer',
     ],
     typeSpeed: 55,
     backSpeed: 35,
@@ -66,19 +66,19 @@ Thank you for visiting!
 - **Languages:** Python, R, SQL
 - **ML & NLP:** scikit-learn, sentence-transformers, GPT-4/Gemini, LSTM, XGBoost, RAG
 - **Analytics & BI:** pandas, NumPy, Tableau, Power BI, A/B Testing
-- **Infrastructure:** AWS S3/EC2 · ETL/ELT pipelines · GitHub 
+- **Infrastructure:** ETL/ELT pipelines, GitHub, AWS S3/EC2
 
 ---
 #### Career Timeline
 
 | | |
 |---|---|
-| Aug 2023 – Dec 2025 | Fiscal Analyst, Boston College |
+| Aug 2023 - Dec 2025 | Fiscal Analyst, Boston College |
 | | |
-| Jun 2023 – Aug 2023 | Business Analyst, Ernst & Young GDS |
+| Jun 2023 - Aug 2023 | Business Analyst, Ernst & Young GDS |
 | | |
-| Feb 2023 – Apr 2024 | LLM Engineer, Finurja |
+| Feb 2023 - Apr 2024 | LLM Engineer, Finurja |
 | | |
-| Aug 2023 – Dec 2025 | Dual MS in Applied Analytics & Economics, Boston College |
+| Aug 2023 - Dec 2025 | Dual MS in Applied Analytics & Economics, Boston College |
 | | |
-| Aug 2019 – May 2023 | B.Tech in Computer Science, IEM Kolkata |
+| Aug 2019 - May 2023 | B.Tech in Computer Science, IEM Kolkata |
