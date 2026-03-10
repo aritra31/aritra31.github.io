@@ -40,10 +40,9 @@ Hello! Welcome to my corner of the internet.
 My name is Aritra, and I am passionate about finding structure in complex, 
 ambiguous problems and turning it into something people can actually use. 
 My background is in computer science, with graduate training in applied 
-analytics and economics at Boston College. Although my journey has been 
-largely self-directed - from the Middle East to India to the United States - 
-it has been driven by a genuine curiosity about how data can inform better 
-decisions.
+analytics and economics at Boston College. My path has taken me from the Middle East to India to the United States, 
+each move self-planned, each environment genuinely new. That experience of building from scratch 
+in unfamiliar places has shaped how I approach work more than any course or credential.
 
 I have worked across domains that look very different on the surface: 
 clinical research, financial services, higher education, and technology. What 
